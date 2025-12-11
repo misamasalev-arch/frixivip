@@ -478,7 +478,7 @@ btnText.Position = UDim2.new(.3,0,0,0)
 
 btnText.BackgroundTransparency = 1
 
-btnText.Text = "GET SCRIPT"
+btnText.Text = "GET KEY"
 
 btnText.Font = Enum.Font.GothamBold
 
